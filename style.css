@@ -1,0 +1,66 @@
+/* KULLANILAN KAYNAK https://www.youtube.com/watch?v=AMpkXMU0IkI&ab_channel=KadirKas%C4%B1m  */
+/* KULLANILAN KAYNAK https://www.youtube.com/watch?v=AMpkXMU0IkI&ab_channel=KadirKas%C4%B1m  */
+/* KULLANILAN KAYNAK https://www.youtube.com/watch?v=AMpkXMU0IkI&ab_channel=KadirKas%C4%B1m  */
+/* KULLANILAN KAYNAK https://www.youtube.com/watch?v=AMpkXMU0IkI&ab_channel=KadirKas%C4%B1m  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+body {
+   background: radial-gradient(circle, rgba(246,255,233,1) 16%, rgba(223,246,194,1) 42%, rgba(212,240,189,1) 62%, rgba(196,255,150,1) 100%);
+   color: black;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.rela{
+    position: relative;
+    top: 220px;
+
+}
+.ana{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    
+}
+
+.giris{
+    padding: 50px 20px 50px 20px;
+}
+h1{
+    font-size: 40px;
+    color: darkslategrey;
+    margin-bottom: 25px;
+}
+input{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    border: none;
+    outline: none;
+    background: transparent ;
+    border-bottom: 3px solid darkslategrey;
+    color: black;
+}
+.sehir{
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+.durum{
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+.derece{
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.degisken {
+    text-transform: capitalize;
+}
